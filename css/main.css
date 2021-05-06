@@ -1,0 +1,101 @@
+body{
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    background-color: lightblue;
+}
+img{
+    max-width: 50%;
+}
+.fejlec{
+    line-height: 3rem;
+    font-size: 2rem;
+    text-align: center;
+    margin: 2rem;
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+}
+.nyitolap{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 16px;
+    max-width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.nyitolap img{
+    display: block;
+    margin: 0 auto;
+}
+.nyitolap span{
+    font-size: 1.8rem;
+}
+.kepeim{
+    display: inline-block;
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 16px;
+    max-width: 30rem;
+    max-height: 50rem;
+    text-align: center;
+    margin: auto;
+}
+.kepeim img{
+    display: block;
+    margin: 16px auto;
+    max-width: 20rem;
+}
+.kepeim span{
+    font-size: 1.8rem;
+}
+header{
+    font-size: 1.8rem;
+    text-align: center;
+}
+.elerhetoseg span{
+    font-size: 1.8rem;
+}
+.elerhetoseg{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 16px;
+    max-width: 60%;
+    text-align: center;
+    margin: auto;
+}
+.elerhetoseg img{
+    display: block;
+    margin: 0 auto;
+}
+.elerhetoseg{
+    font-size: 1.5rem;
+}
+.dokumentacio span{
+    font-size: 1.8rem;
+    text-align: center;
+}
+.nyito{
+    font-size: 2rem;
+    color: red;
+}
+.szoveg{
+    font-size: 1.2rem;
+}
+.dokumentacio{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 16px;
+    max-width: 60%;
+    text-align: center;
+    margin: auto;
+}
+.dokumentacio img{
+    display: block;
+    margin: 0 auto;
+}
